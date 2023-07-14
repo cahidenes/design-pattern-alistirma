@@ -1,4 +1,4 @@
-# Builder ve Prototype Design Pattern Alıştırma
+# Görev
 
 Bir bilgisayarı simüle etmek için Computer adlı class’ımız var.
 
